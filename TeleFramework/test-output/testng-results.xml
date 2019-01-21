@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="589" started-at="2019-01-21T07:26:28Z" finished-at="2019-01-21T07:26:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="589" started-at="2019-01-21T07:26:28Z" finished-at="2019-01-21T07:26:28Z">
+      <class name="testCases.ReadData">
+        <test-method status="PASS" signature="pass(java.lang.String, java.lang.String)[pri:0, instance:testCases.ReadData@2b98378d]" name="pass" duration-ms="13" started-at="2019-01-21T12:56:28Z" data-provider="getData" finished-at="2019-01-21T12:56:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pass -->
+        <test-method status="PASS" signature="pass(java.lang.String, java.lang.String)[pri:0, instance:testCases.ReadData@2b98378d]" name="pass" duration-ms="2" started-at="2019-01-21T12:56:28Z" data-provider="getData" finished-at="2019-01-21T12:56:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pass -->
+        <test-method status="PASS" signature="pass(java.lang.String, java.lang.String)[pri:0, instance:testCases.ReadData@2b98378d]" name="pass" duration-ms="3" started-at="2019-01-21T12:56:28Z" data-provider="getData" finished-at="2019-01-21T12:56:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bcd@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pass -->
+        <test-method status="PASS" signature="pass(java.lang.String, java.lang.String)[pri:0, instance:testCases.ReadData@2b98378d]" name="pass" duration-ms="2" started-at="2019-01-21T12:56:28Z" data-provider="getData" finished-at="2019-01-21T12:56:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[cde@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pass -->
+        <test-method status="PASS" signature="pass(java.lang.String, java.lang.String)[pri:0, instance:testCases.ReadData@2b98378d]" name="pass" duration-ms="3" started-at="2019-01-21T12:56:28Z" data-provider="getData" finished-at="2019-01-21T12:56:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[def@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pass -->
+        <test-method status="PASS" signature="pass(java.lang.String, java.lang.String)[pri:0, instance:testCases.ReadData@2b98378d]" name="pass" duration-ms="1" started-at="2019-01-21T12:56:28Z" data-provider="getData" finished-at="2019-01-21T12:56:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[efg@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pass -->
+      </class> <!-- testCases.ReadData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

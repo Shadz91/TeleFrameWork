@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23093" started-at="2019-01-21T08:38:43Z" finished-at="2019-01-21T08:39:06Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23093" started-at="2019-01-21T08:38:43Z" finished-at="2019-01-21T08:39:06Z">
+      <class name="testCases.ValidateErrorTest">
+        <test-method status="PASS" signature="x()[pri:0, instance:testCases.ValidateErrorTest@68999068]" name="x" duration-ms="23092" started-at="2019-01-21T14:08:43Z" finished-at="2019-01-21T14:09:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- x -->
+      </class> <!-- testCases.ValidateErrorTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
